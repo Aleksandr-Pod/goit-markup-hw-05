@@ -560,9 +560,8 @@ img {
 }
 .overlay {
   position: relative;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
-
 .over-text {
   width: 370px;
   height: 294px;
